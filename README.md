@@ -26,5 +26,13 @@ Travel, hotel, and expenses for two, plus:
 
 | Service | Rate | Per | Limits and conditions
 | ------- | :--: | :-: | ---------------------
-| Within EU | €2K | hour | 
-| Worldwide | €4K | hour | 
+| Within EU | €1K | hour | 
+| Worldwide | €2K | hour | 
+| Bounty | €? | task | whitelist clients only
+
+## Special
+
+| Service | Rate | Per | Limits and conditions
+| ------- | :--: | :-: | ---------------------
+| Emergency | €100K | month | 
+| War | €1M | month | 
