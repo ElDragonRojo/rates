@@ -1,10 +1,11 @@
 # Public Rates
 
-To hire me, contact judy.i.chen at gmail. All rates exclusive VAT.
+For booking, contact judy.i.chen at gmail. All rates exclusive VAT and subject to availability.
+
+On-site consultations outside the Netherlands require travel, hotel, and reasonable expenses for two people.
+
 
 ## Knowledge Arbitrage
-
-Training and Capacity Building
 
 | Service | Rate | Per | Limits and conditions
 | ------- | :--: | :-: | ---------------------
@@ -13,8 +14,6 @@ Training and Capacity Building
 
 
 ## Public Speaking
-
-Travel, hotel, and expenses for two, plus:
 
 | Service | Rate | Per | Limits and conditions
 | ------- | :--: | :-: | ---------------------
@@ -28,11 +27,19 @@ Travel, hotel, and expenses for two, plus:
 | ------- | :--: | :-: | ---------------------
 | Within EU | €1K | hour | 
 | Worldwide | €2K | hour | 
-| Bounty | €? | task | whitelist clients only
+| On Bounty | €TBD | task | whitelist clients only
 
-## Special
+
+## Special Services
 
 | Service | Rate | Per | Limits and conditions
 | ------- | :--: | :-: | ---------------------
 | Emergency | €100K | month | 
 | War | €1M | month | 
+
+
+## Other Services
+
+| Service | Rate | Per | Limits and conditions
+| ------- | :--: | :-: | ---------------------
+| Referrals | €TBD | task | paid by company upon hiring
