@@ -6,7 +6,7 @@ Over the years I've tried to balance demands for my time within a realistic ethi
 
 I used to think that I would never sell out because, to me, a million dollars and a hundred million dollars are the same amount of money: more than I need. My mentor disabused me of that by saying, "a hundred million dollars would save a lot of lemurs."
 
-So I accept that everyone has their price, and I have set mine at the arbitrariy round figure of €1000 per hour. Perhaps that is absurdly high, but if you want access to my particular set of experiences, and don't want to have to negotiate, there it is.
+So I accept that everyone has their price, and I have set mine at the arbitrarily round figure of €1000 per hour. Perhaps that is absurdly high, but if you want access to my particular set of experiences, and don't want to have to negotiate, there it is.
 
 ## Speaking
 
