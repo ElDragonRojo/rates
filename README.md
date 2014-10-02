@@ -1,58 +1,21 @@
 # Open Rates
 
-We are trained not to talk about money by the people who benefit from our silence, so let's talk about it.
+A lot of people think it's somehow wrong to talk about money. I think those ideas were added to our culture by people who benefit from us not sharing that information with each other.
 
-Most of my engineering time is booked by [good companies](https://github.com/ElDragonRojo/good) run by people I've known for years and trust well enough to pay me whatever.
+Over the years I've tried to balance demands for my time within a realistic ethical framework. What I mean by that is, I am not interested in most things people want me to spend my time on, but I don't want to adopt a high and mighty position about it.
 
-I can still be hired at rates ranging from reasonable to ridiculous, based on availability and the general good.
+I used to think that I would never sell out because, to me, a million dollars and a hundred million dollars are the same amount of money: more than I need. My mentor disabused me of that by saying, "a hundred million dollars would save a lot of lemurs."
+
+So I accept that everyone has their price, and I have set mine at the arbitrariy round figure of €1000 per hour. Perhaps that is absurdly high, but if you want access to my particular set of experiences, and don't want to have to negotiate, there it is.
+
+## Speaking
+
+I am drastically curtailing my regular speaking appearances to a few favorite conferences, but you can still hire me to present on the topic and in the costume of your choice for €4000 plus travel, hotel, and reasonable expenses for two people.
 
 ## Discounts
 
-If I like your team and what you're doing, we might be able to work something out with certain conditions. I love working with good people. The business decision is balancing budget, demand, and availability.
+I still do very limited consulting in very limited circumstances for Appsterdammers and other friends for €100.
 
 ## Inquiries
 
-Contact my partner judy.i.chen at gmail. All rates exclusive VAT and subject to availability.
-
-On-site consultations outside the Netherlands require travel, hotel, and reasonable expenses for two people.
-
-## Services
-
-### Knowledge Arbitrage
-
-| Service | Rate | Per | Limits and conditions
-| ------- | :--: | :-: | ---------------------
-| Remote consultation | €100 | hour | 2 hours per week 
-| On-site consultation | €2K | day | 3 days per week
-
-
-### Public Speaking
-
-| Service | Rate | Per | Limits and conditions
-| ------- | :--: | :-: | ---------------------
-| Within EU | €2K | hour | 
-| Worldwide | €4K | hour | 
-
-
-### Engineering
-
-| Service | Rate | Per | Limits and conditions
-| ------- | :--: | :-: | ---------------------
-| Within EU | €1K | hour | 
-| Worldwide | €2K | hour | 
-| On Bounty | €TBD | task | whitelist clients only
-
-
-### Special Situations
-
-| Service | Rate | Per | Limits and conditions
-| ------- | :--: | :-: | ---------------------
-| Emergency | €100K | month | 
-| War | €1M | month | 
-
-
-## Other Requests
-
-| Service | Rate | Per | Limits and conditions
-| ------- | :--: | :-: | ---------------------
-| Referrals | €TBD | job | 1/4 Annual Salary
+Contact my partner judy.i.chen at gmail. 
